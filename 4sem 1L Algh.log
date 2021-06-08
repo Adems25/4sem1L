@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Adem\source\repos\4sem 1L Algh\4sem 1L Algh\header.h(377,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\4sem 1L Algh\4sem 1L Algh\header.h(333): warning C4715: RBTree::get_Node: значение возвращается не при всех путях выполнения
+  4sem 1L Algh.vcxproj -> C:\Users\Adem\source\repos\4sem 1L Algh\Debug\4sem 1L Algh.exe
